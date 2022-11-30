@@ -1,24 +1,10 @@
 .principal{
     border: 1px solid black;
-    max-width: 2100px;
-    width: 100%;
-    height: 6795px;
     justify-content: center;
     align-content: center;
 }
 .top{
-    border: 1px solid black;
-    max-width: 2065px;
-    width: 100%;
-    height: 225px;
     margin-top: 135px;
-}
-.header{
-    border: 1px solid black;
-    max-width: 1171px;
-    width: 100%;
-    height: 35px;
-    margin-top: 58px;
 }
 .text{
     font-family: 'Open Sans';
@@ -27,21 +13,14 @@
     width: 100%;
     height: 175px;
 }
-.icon{
-    text-align: end;
-}
 .posts{
-    max-width: 1170px;
-    width: 100%;
-    height: 4900px;
-    border: 1px solid black;
     margin-top: 91px;
 }
 .by{
     font-weight: 400;
     font-size: 16px;
 }
-.btn{
+.btn-class{
     border-radius: 50px;
     max-width: 204px;
     width: 100%;
@@ -71,10 +50,6 @@ h3{
     margin-top: 51px;
 }
 .alltopics{
-    border: 1px solid black;
-    max-width: 1168px;
-    width: 100%;
-    height: 409px;
     margin-top: 214px;
 }
 .ms-5 {
@@ -88,26 +63,6 @@ img{
     width: 100%;
     height: 359px;
 }
-.no{
-    max-width: 24px;
-    width: 100%;
-    height: 24px;
-}
-.logo{
-    max-width: 70px;
-    width: 100%;
-    height: 18px;
-}
-.header a.active,
-.header a:hover {
-    color: white;
-    background: #FF5480;
-}
-a{
-    border-radius: 10px;
-    text-decoration: none;
-    color: black;
-}
 .btn-topic{
     width: 276px;
     height: 146px;
@@ -119,8 +74,6 @@ a{
 i{
     display: inline-block;
     max-width: 23.1px;
-    width: 100%;
-    height: 35px;
 }
 .title{
     font-family: 'Open Sans';
@@ -138,19 +91,10 @@ i{
 }
 .design{
     margin-top: 200px;
-    max-width: 685px;
-    width: 100%;
-    height: 108px;
-    margin-left: 711px;
 }
 .email{
     border-radius: 40px;
     max-width: 505px;
-    width: 100%;
-    height: 70px;
-}
-.btn-sus{
-    max-width: 170px;
     width: 100%;
     height: 70px;
 }
