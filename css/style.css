@@ -50,6 +50,9 @@ a{
 .mt-3{
     margin-top: 20px !important;
 }
+.mt-5{
+    margin-top: 200px !important;
+}
 img{
     max-width: 980px;
     width: 100%;
@@ -91,7 +94,7 @@ i{
 .img-post{
     max-width: 1021px;
     width: 100%;
-    height: 575px;
+    height: 100%;
 }
 .link{
     text-decoration: underline;
@@ -110,7 +113,7 @@ i{
 .img-d{
     max-width: 500px;
     width: 100%;
-    height: 650px;
+    height: 100%;
 }
 .icon{
     width: 99px;
